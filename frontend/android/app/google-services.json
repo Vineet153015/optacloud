@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "763693226746",
+    "project_id": "optacloud-5044c",
+    "storage_bucket": "optacloud-5044c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763693226746:android:6c71e96607d27a5fbe8743",
+        "android_client_info": {
+          "package_name": "com.example.optacloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763693226746-p4hd21bs3boi8fd35ranp3tn0a1mqvcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.optacloud",
+            "certificate_hash": "b025a2213dbf0e8c36d5d8bdc77c7c678ebefb73"
+          }
+        },
+        {
+          "client_id": "763693226746-4o0h83fp9qjefq57pttl2ucbpl1kmkkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0y14VcaLDBB982b6-SClMOhndnxGOaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763693226746-4o0h83fp9qjefq57pttl2ucbpl1kmkkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763693226746-qssm4ljb8i01euscrj4c6oggkfsunpvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.optacloud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
